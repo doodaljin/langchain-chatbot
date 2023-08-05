@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/doodaljin/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/doodaljin/next13-chat-blog-repo.git
